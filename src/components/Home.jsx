@@ -1,5 +1,6 @@
 import heroBanner from '../assets/banner.jpg';
 import { Link } from 'react-router-dom';
+import './Home.css';
 
 function Home() {
   return (
@@ -27,6 +28,7 @@ function Home() {
       <div
         className="container h-100 d-flex flex-row align-items-center justify-content-space-between"
         style={{ position: 'relative', zIndex: 2 }}
+        id='bannerContent'
       >
         <div className="col-md-5 text-start">
           <h2
