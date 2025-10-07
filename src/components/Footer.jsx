@@ -25,7 +25,7 @@ function Footer() {
           <div className="col-md-9 text-center text-md-start">
             <h4 className="fw-bold mb-2">Pamantasan ng Cabuyao - UC</h4>
             <p className="mb-1">
-              <small>Katapatan, Kahusayan, at Kabayanihan — University of Cabuyao</small>
+              <small>Dangal ng Bayan — University of Cabuyao</small>
             </p>
             <p className="mb-2">
               <small>Brgy. Banay-Banay, City of Cabuyao, Laguna, Philippines</small>
