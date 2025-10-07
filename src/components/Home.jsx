@@ -1,9 +1,21 @@
+import heroBanner from '../assets/banner.jpg'
+import { Link } from 'react-router-dom';
+
 function Home() {
   return (
-    <div className="container mt-4">
-      <h1>Welcome to Pamantasan ng Cabuyao</h1>
-      <p>This is the homepage of our React Single Page Application.</p>
-    </div>
+    <>
+      <div
+      className="p-5 text-center bg-image"
+      style={{
+        backgroundImage: `url(${heroBanner})`, 
+        backgroundPosition: 'center  center',
+        backgroundSize: 'cover',
+        height: '500px',
+      }}
+      >
+      </div>
+    </>
+    
   );
 }
 export default Home;
