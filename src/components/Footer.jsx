@@ -7,7 +7,6 @@ function Footer() {
         backgroundColor: "#006633",
         color: "white",
         padding: "2rem 0",
-        marginTop: "3rem",
         height: "220px",
       }}
     >
