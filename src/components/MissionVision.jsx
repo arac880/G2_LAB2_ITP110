@@ -1,6 +1,6 @@
 function MissionVision() {
   return (
-    <div className="container mt-4">
+    <div className="container-missionvission mt-4">
       <h2>Core Values</h2>
       <p>As God-fearing  institution respecting multi faith of people PnC adheres to the following core values 
  P - Personal dignity 
